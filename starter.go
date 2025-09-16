@@ -1,8 +1,8 @@
 package actuatorStarter
 
 import (
-	"github.com/dennesshen/photon-actuator-starter/actuator"
-	"github.com/dennesshen/photon-core-starter/core"
+	"github.com/Phofuture/photon-actuator-starter/actuator"
+	"github.com/Phofuture/photon-core-starter/core"
 )
 
 func init() {

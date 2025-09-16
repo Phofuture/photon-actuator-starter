@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log/slog"
 	"os"
-	
-	"github.com/dennesshen/photon-core-starter/bean"
-	"github.com/dennesshen/photon-core-starter/core"
-	"github.com/dennesshen/photon-core-starter/log"
+
+	"github.com/Phofuture/photon-core-starter/bean"
+	"github.com/Phofuture/photon-core-starter/core"
+	"github.com/Phofuture/photon-core-starter/log"
 	"github.com/gofiber/fiber/v2"
 )
 
